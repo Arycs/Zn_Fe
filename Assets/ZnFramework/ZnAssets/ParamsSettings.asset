@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea9f2714601aa545aee20b6fe4d3cf2, type: 3}
+  m_Name: ParamsSettings
+  m_EditorClassIdentifier: 
+  WebAccountUrl: 
+  TestWebAccountUrl: 
+  IsTest: 0
+  GeneralParams: []
+  GradeParamDatas:
+  - Key: Pool_ReleaseClassObjectInterval
+    LowValue: 30
+    MiddleValue: 60
+    HighValue: 300
+  - Key: Pool_ReleaseAssetBundleInterval
+    LowValue: 30
+    MiddleValue: 60
+    HighValue: 300
+  - Key: Pool_ReleaseAssetInterval
+    LowValue: 60
+    MiddleValue: 120
+    HighValue: 600
+  - Key: UI_PoolMaxCount
+    LowValue: 3
+    MiddleValue: 5
+    HighValue: 10
+  - Key: UI_Exprie
+    LowValue: 30
+    MiddleValue: 60
+    HighValue: 120
+  - Key: UI_ClearInterval
+    LowValue: 10
+    MiddleValue: 60
+    HighValue: 120

@@ -41,3 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2937084669
+    locked: 0
+  - name: TilemapBackground
+    uniqueID: 2446537737
+    locked: 0
+  - name: Terrain
+    uniqueID: 2639749479
+    locked: 0
+  - name: MapObjectBackground
+    uniqueID: 3727454357
+    locked: 0
+  - name: MapObject
+    uniqueID: 2627575173
+    locked: 0
+  - name: MapObjectForeground
+    uniqueID: 510320981
+    locked: 0
+  - name: TilemapForeground
+    uniqueID: 331847037
+    locked: 0
+  - name: UI
+    uniqueID: 3774462759
+    locked: 0
+  - name: UIForeground
+    uniqueID: 2320344183
+    locked: 0

@@ -1,0 +1,9 @@
+﻿namespace Zn_Fe.Maps
+{
+    public class TileOffset
+    {
+        public int index;
+        public float x;
+        public float y;
+    }
+}
